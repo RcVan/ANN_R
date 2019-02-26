@@ -6,7 +6,7 @@
 
 ## clear variables and set work directory
 # rm(list = ls())
-# setwd("/Users/rcusf/Desktop/NMLh4")
+# setwd("/Users/rcusf/Desktop/")
 
 
 ## source .r file
