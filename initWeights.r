@@ -5,7 +5,7 @@
 #######################################
 
 ## Description
-# This initWeights.r file generates weights with modifiable parameters.
+# This initWeights.r file generate weights with modifiable parameters.
 
 
 ## clear variables and set work directory
@@ -27,7 +27,7 @@ library(optimbase)
 # numeric: input_size(without bias), output_size
 # boolean: bias_flag
 ## return:
-# matrix: weights (output_size * input_size+1)
+# matrix: weights (output_size * input_size[+1])
 initWeights = function(input_size, output_size, range, bias_flag = TRUE){
   
 ## get range 
