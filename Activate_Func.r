@@ -21,7 +21,9 @@ library(optimbase)
 ## function starts from here
 #######################################################
 
-# tanh
+## tanh derivative
+## parameters: 
+# matrix: x(N dim * batch_size)
 tanh_derivative = function(x){
   
   # 1- tanh(x)^2

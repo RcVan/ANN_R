@@ -5,7 +5,7 @@
 #######################################
 
 ## Description
-# This initWeights.r file generate weights with modifiable parameters.
+# This initWeights.r file generates weights with modifiable parameters.
 
 
 ## clear variables and set work directory
